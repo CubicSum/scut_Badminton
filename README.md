@@ -49,5 +49,5 @@
 2. 自动重连为登录状态失效后恢复的时间（未实现）
 
 ### 运行截图
-<div align=center><img width=90% src="./img/1.jpg"/></div>
+<div align=center><img width=90% src="./img/1.png"/></div>
 <p align="center">登录，并添加抢场策略</p>
